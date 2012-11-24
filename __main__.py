@@ -3,7 +3,7 @@ from bitdeli.widgets import Users, Text, set_theme, get_themes
 
 print '\n'.join(get_themes())
 
-set_theme('lime')
+set_theme('safari')
 
 HASHES = ['205e460b479e2e5b48aec07710c08d50',
           '25c7c18223fb42a4c6ae1c8db6f50f9b',
